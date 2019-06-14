@@ -112,3 +112,6 @@ Software Cycle Stage
 --------------------
 * Development - Alpha
 
+Author
+------
+Victor Mawusi Ayi
