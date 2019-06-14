@@ -1,8 +1,6 @@
 FLAKE8-LINELEAK
 ===============
 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-
 Introduction
 ------------
 If your script has more than a set number of lines, your code lines are leaking :)
