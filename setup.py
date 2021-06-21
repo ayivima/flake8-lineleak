@@ -20,7 +20,7 @@ setup(
     author_email="ayivima@hotmail.com",
     url="https://github.com/ayivima/flake8-lineleak",
     license="MIT",
-	py_modules=['lineleak'],
+	py_modules=['flake8_lineleak'],
 	zip_safe=False,
     python_requires=">=3.4",
     install_requires=["flake8>=3.3.0", "attrs"],
@@ -41,7 +41,7 @@ setup(
     ],
     entry_points={
         "flake8.extension": [
-            "LL = lineleak:Screener",
+            "LL = flake8_lineleak:Screener",
         ],
     },
 )
